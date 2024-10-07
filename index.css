@@ -29,7 +29,7 @@ a{
 	color:white;
 	padding-left:20px;
 	font-family: sans-serif;
-	border-radius: 20px	;
+	border-radius: 20px;
 }
 
 h2:hover{
@@ -64,6 +64,18 @@ table,th,td{
 .party-img{
 	height:40px;
 	width:40px;
+}
+
+.side-menu-heading{
+    color:white; 
+    padding-left:10px
+}
+
+.horizantal-line{
+    width:50px; 
+    border:3px solid red; 
+    border-radius: 10px;
+    
 }
 
 .card{
